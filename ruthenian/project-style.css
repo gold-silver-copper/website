@@ -8,20 +8,20 @@ body {
 }
 table {
     width: 100%;
-    margin: 20px auto;
+    margin: 10px auto;
     border-collapse: collapse;
     background-color: white;
 }
 th,
 td {
     border: 1px solid linen;
-    padding: 10px;
-    background-color: royalblue;
+    padding: 5px;
+    background-color: saddlebrown;
     color: linen;
     text-align: center;
 }
 th {
-    background-color: midnightblue;
+    background-color: maroon;
     color: linen;
 }
 .content {
@@ -44,4 +44,15 @@ th {
     color: black;
     text-decoration: none;
     font-weight: bold;
+}
+
+.small-img {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
+.large-img {
+    width: 600px;
+    height: auto;
+    margin: 10px;
 }
