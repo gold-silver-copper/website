@@ -1,0 +1,58 @@
+Text game.
+
+Use hotkey instead of sentences
+Have basic menu.
+That's it.
+
+
+
+Map format:
+
+Nodes, Directions, Graph
+
+Location name
+Location connections
+Location properties-
+Location polygon? center point? radius?
+
+Items in a Location
+People in a Location
+Objects in a Location, things you cant just pick up
+
+It ultimately has to be a roguelike, but one that can be completely played like a text game.
+
+
+The roguelike board game has a wooden grid board, dice, and bags of wooden pieces that have letters and symbols engraved into them. It comes with booklets that setup a scenario.
+
+Scrabble Pieces for characters and items.
+Scrabble pieces which are just numbers and symbols.
+Square wood alphabet beads for terrain items.
+Smaller and Bigger dice. Walls are big blank dice. C for columns. Items are smaller dice.
+Handmade @ sign character pieces, each one with a unique symbol attached.
+A ruler for calculating line of sight.
+Dice
+Chessboard
+Booklet
+
+Tiles are 18x20. Smaller cubes
+
+To make: Wooden Plank, Cut to size with saw. Knife and Chisel to cut impressions into the wood. Wood Finish and staining for color and preservation. Straight Edge. Tape Measure. Pencil.
+
+BEAVER CRAFT PADDLE STROP AND COMPOUND AND KNIFE
+SMITH POCKET SHARPENER
+https://www.amazon.com/dp/B000O8OTNC?ref=emc_s_m_5_i_atc
+STROP
+https://www.amazon.com/BeaverCraft-Sharpening-Polishing-Stropping-Woodworking/dp/B07TWMRC15/138-6926715-0856126?pd_rd_w=zmRDB&content-id=amzn1.sym.426be337-28f2-4419-9c56-123d7a6ba791&pf_rd_p=426be337-28f2-4419-9c56-123d7a6ba791&pf_rd_r=NVHFGQ58R60EGNX4G8A1&pd_rd_wg=f1yc9&pd_rd_r=279a77c3-05ac-45a1-a948-2567fdd913b8&pd_rd_i=B07TWMRC15&psc=1
+
+KNIFE
+https://www.amazon.com/s?k=opinel
+WHETSTONE
+https://www.amazon.com/Opinel-Natural-Sharpening-Whetstone-Lombardi/dp/B0BSFRGPKH?crid=2LZZETOQHPNU3&dib=eyJ2IjoiMSJ9.O9yGzAnKz0rumAYfZ6cZszAPsIF7YtZ5e8otTY2k-icVcI0PBdkKPGvFJo-F_0-XTXBzEIn4ycIFhVhQmWl7Lb_JJ1rO8X1qbD1dexbsMK0FWkYmd3YxcRQsADSQGtl_fpN4f8dsLwXqmoNOGmZpK8XKDsIRKvtIqD2sJgDmayhVv2FDlYkL-VNscjAFfUdMHecu1qpGNHotityVQwnLJ3w9WlW5tm8jT7ZwxPUOhFZgXdUyphVN-bNF4x42FXjLDylYjoneSlU2dHpUZ8LhmLa6LBSlU2sW9bxS6usH1QUZRlo_tkBBrRqeJOqeLJ7YAxapgM2eldDE8j-pVSB6JV0n0GdO3LdrrVaS1eOk0c4l3FYn-tgwlVrjGeXBlY8T9zSR4qFf-r7Z6bM9ywgmVLIdGghmNSBmLcLhH5uEF4fKaZ8rHkZqoX4lfmbvPXnw.jG48ki44mhKkayLhlaW1a2y-0WpbdHsgbJjVYjRlPGA&dib_tag=se&keywords=opinel%2Bsharpening&qid=1739520999&sprefix=opinel%2Bsharpenin%2Caps%2C141&sr=8-1&th=1
+
+SAW
+Agawa Boreal 21
+https://www.youtube.com/watch?v=ALlHm6IzFxE
+https://www.amazon.com/Professional-Folding-Landscaping-POCKETBOY-346-17/dp/B0014C7XS0?crid=3D98P7BKL107F&dib=eyJ2IjoiMSJ9.H--84v28JDtUGq018a4ZJukELlm_CY1145VTQr0DiAD-0w16gXKB0RMeC1FdifRdnzNQMeTxE59-9QtCMatoeV5X9JelR_3DUz9cFb3VN-nW6yTc-3g9lIoGF_E6yTwg-XNvmD7-eqHyLysdQq7Ic492N7dPaXyf8y5LXyj9rwvff0-3I6XuOSSLMqOTSUPEyTv99X5WvXmXUjSDSFQsAzqDfj1HBF2ctIWVvD7TH2SYup6WZdR8kwIDDOkd5kjzhjSa7lFn0pMmWVsn-2eQLbLszwXvr_WQ0hEZJ0CnHO5IHOjm0JAZHvDpUrZfyJEllVSWsEbGzQeC8B3PC9-YM9zPY4Rdsq9qtd434IBy1XA.VdaHNo3Aadt_VzkdFn_XhvekIgzRCIAuSyxQ7LErYRU&dib_tag=se&keywords=silky+folding+saw&qid=1739455581&s=sporting-goods&sprefix=silky+folding+sa%2Csporting%2C134&sr=1-5
+
+
+https://www.amazon.com/SILKY-143-18-F-180-Folding-180mm/dp/B0014C7WGS?dib=eyJ2IjoiMSJ9.-i8zYw4c1XHwwqNQoZIb3ufdAmRB3mGrn7Z9exdianL0YLyJNDIrkkVjnLVyXO6NgDwDF2M4tkBMmAO5cGN9zQCqSdDr4C6KMNjlEVuoWd8.JYbjQB2u6gQQK32ZpDXA4lgvDPaIZ_QqFj2afPaBGtU&dib_tag=se&keywords=slinky+saw&qid=1739456302&sr=8-5
